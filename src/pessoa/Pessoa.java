@@ -30,9 +30,9 @@ public class Pessoa {
          this.telefone = t;
      }
      
-    public Pessoa (String n,String m, int t){
+    public Pessoa (String n,String e, int t){
         setNome(n);
-        setEndereco(m);
+        setEndereco(e);
         setTelefone(t);
 }
     
